@@ -26,7 +26,7 @@ class HevyClient:
     @property
     def headers(self) -> Dict[str, str]:
         hdrs = {
-            "x-api-key": self._auth.api_key,
+            "api-key": self._auth.api_key,
             "Content-Type": "application/json",
             "accept-encoding": "gzip",
         }
