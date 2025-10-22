@@ -1,0 +1,17 @@
+{
+  "domain": "hevy",
+  "name": "Hevy",
+  "version": "0.1.0",
+  "documentation": "https://api.hevyapp.com/docs/",
+  "issue_tracker": "https://github.com/yourname/ha-hevy/issues",
+  "codeowners": [
+    "@yourname"
+  ],
+  "iot_class": "cloud_polling",
+  "integration_type": "service",
+  "requirements": [],
+  "config_flow": true,
+  "loggers": [
+    "custom_components.hevy"
+  ]
+}

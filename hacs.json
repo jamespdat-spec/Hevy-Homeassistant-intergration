@@ -1,0 +1,11 @@
+{
+  "name": "Hevy",
+  "content_in_root": false,
+  "country": [
+    "AU",
+    "US",
+    "GB",
+    "NZ"
+  ],
+  "render_readme": true
+}
